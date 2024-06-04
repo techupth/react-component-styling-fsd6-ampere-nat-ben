@@ -1,0 +1,37 @@
+.btn {
+    width: 650px;
+    height: 76px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+img {
+   margin-left: 26px;
+}
+.btn-long{
+    display: flex;
+    gap: 20px;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.btnError{
+    background-color: #F9C8C8;
+}
+
+.btnWarning{
+
+    background-color: #F9D9C8;
+}
+
+.btnInfo{
+  
+    background-color: #F9EBC8;
+}
+
+.btnSuccess{
+ 
+    background-color: #CEF7CD;
+}

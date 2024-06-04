@@ -1,0 +1,14 @@
+button {
+    text-align: center;
+    width: 171.19px;
+    height: 50px;
+    padding: 0px 16px;
+}
+
+.btn-primary {
+    background-color: #074EE8;
+}
+
+.btn-secondary {
+    background-color: #07A4E8;
+}
